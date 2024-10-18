@@ -24,8 +24,8 @@ The General E-Commerce Web Crawler is a powerful, asynchronous web scraping tool
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/darkball1/general_ecommerce_web_scroller.git
-   cd general_ecommerce_web_scroller
+   git clone https://github.com/darkball1/general_ecommerce_web_crawler.git
+   cd general_ecommerce_web_crawler
    ```
 
 2. Install the required packages:
