@@ -1,7 +1,7 @@
 import os
 
 class ChunkedFileWriter:
-    def __init__(self, filename_prefix, max_file_size=10 * 1024 * 1024):  
+    def __init__(self, filename_prefix, max_file_size=5 * 1024 * 1024):  
         self.filename_prefix = filename_prefix
         self.max_file_size = max_file_size
         self.current_file = None
