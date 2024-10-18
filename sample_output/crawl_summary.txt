@@ -1,0 +1,35 @@
+Domain: www.blueapron.com
+  Total product URL files: 0
+  Total URLs crawled: 1
+
+Domain: www.casper.com
+  Total product URL files: 0
+  Total URLs crawled: 1
+
+Domain: www.dollarshaveclub.com
+  Total product URL files: 1
+  Total URLs crawled: 190
+
+Domain: www.brewedcoffee.com
+  Total product URL files: 0
+  Total URLs crawled: 1
+
+Domain: www.grove.co
+  Total product URL files: 0
+  Total URLs crawled: 1
+
+Domain: www.fabletics.com
+  Total product URL files: 0
+  Total URLs crawled: 1
+
+Domain: www.cuyana.com
+  Total product URL files: 1
+  Total URLs crawled: 811
+
+Domain: www.bakedbymelissa.com
+  Total product URL files: 0
+  Total URLs crawled: 1
+
+Total unique URLs crawled across all domains: 1007
+Total disallowed URLs: 10
+Total Selenium timeout URLs: 0
