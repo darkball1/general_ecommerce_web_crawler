@@ -34,7 +34,7 @@ The General E-Commerce Web Crawler is a powerful, asynchronous web scraping tool
    ```
 
 3. Install ChromeDriver:
-   - Download the appropriate version of ChromeDriver for your Chrome browser from: https://sites.google.com/a/chromium.org/chromedriver/downloads
+   - Download the appropriate version of ChromeDriver for your Chrome browser
    - Extract the executable and add its location to your system's PATH.
 
 ## Usage
