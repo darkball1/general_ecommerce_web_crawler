@@ -61,7 +61,7 @@ You can adjust the following parameters in the `main_crawler.py` file:
 - Modify `PRODUCT_PATTERNS` in the script to adjust product URL detection.
 - Edit `IGNORED_EXTENSIONS` to change which file types are skipped.
 - Adjust `RESTRICT_LIST` to avoid crawling specific URL patterns.
-- Modify `priority_keywords` in the `HybridWebCrawler` class to change URL prioritization.
+- Modify `PRIORITY_KEYWORDS` to change URL prioritization.
 
 ## Ethical Considerations
 - This crawler respects robots.txt files and includes rate limiting to avoid overloading servers.
