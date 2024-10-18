@@ -30,6 +30,14 @@ Domain: www.bakedbymelissa.com
   Total product URL files: 0
   Total URLs crawled: 1
 
-Total unique URLs crawled across all domains: 1007
+Domain: www.thesill.com
+  Total product URL files: 1
+  Total URLs crawled: 824
+
+Domain: www.puravidabracelets.com
+  Total product URL files: 3
+  Total URLs crawled: 36728
+
+Total unique URLs crawled across all domains: 38559
 Total disallowed URLs: 10
 Total Selenium timeout URLs: 0
